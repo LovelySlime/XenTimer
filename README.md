@@ -1,2 +1,19 @@
 # XenTimer
-Better experience for Thelow Minecraft RPG. This application teach you when insta-die attack will come.
+
+MCRPG Thelow用のアプリケーションです。いつ即死攻撃が来るか教えてくれます。
+
+====================================================================================================
+
+使い方
+
+.exeファイルを直接実行する場合
+(1) 通常と同じ要領で実行できます。操作方法についてはウィンドウをご覧ください。
+
+.hspファイルから実行、もしくはソースを編集する場合
+(1) Hsp Script Editorをダウンロードします。
+  https://hsp.tv/idman/download.html
+  
+  \hsp**\hsed3.exeで.hspファイルを開きます。
+   
+(2) 実行する場合 : F5キーで実行できます。
+    ソース編集も同じウィンドウから行えます。
